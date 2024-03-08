@@ -43,4 +43,10 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
 
     implementation("com.google.firebase:firebase-auth-ktx:22.3.1")
+
+    implementation("com.google.firebase:firebase-database")
+
+    implementation("com.google.firebase:firebase-firestore")
+
+    implementation ("com.airbnb.android:lottie:4.2.0")
 }
